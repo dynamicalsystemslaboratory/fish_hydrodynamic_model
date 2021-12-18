@@ -17,3 +17,11 @@ CFD simulation setup file:
 fish_v6.mph
 fish_v6_paraU.mph
 fish_v6_paraW.mph
+
+Data generated through CFD simulations and theoretical modeling, which are used for generating figures in the paper:
+Data_Fig#.mat
+#: figure/subfigure number
+
+Codes to generate figures in the paper:
+plot_Fig#.m
+#: figure/subfigure number
